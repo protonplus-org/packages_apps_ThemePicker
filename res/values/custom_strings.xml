@@ -25,5 +25,9 @@
     <string name="icon_preview_card_content_description">Icon Preview</string>
     <string name="icon_pack_title">System icon packs</string>
 
+    <!-- Custom themed icons -->
+    <string name="system_icons">System icons</string>
+    <string name="themed_icon_custom_title">Custom themed icons</string>
+
 </resources>
 
